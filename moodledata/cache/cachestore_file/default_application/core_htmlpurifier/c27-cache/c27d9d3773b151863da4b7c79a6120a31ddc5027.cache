@@ -1,0 +1,5 @@
+s:553:"<p>This function makes it possible to create multiple recurrences from the event date.
+<br />* <strong>Repeat on</strong>: Select the days of the week that your class will meet (for example, Monday / Wednesday / Friday).
+<br />* <strong>Repeat every</strong>: This allows for a frequency setting. If your class will meet every week, select 1; will meet every two weeks, select 2; every 3 weeks, select 3, etc.
+<br />* <strong>Repeat until</strong>: Select the last day of the meeting (the last day you want to take the recurring date of the event).</p>
+";

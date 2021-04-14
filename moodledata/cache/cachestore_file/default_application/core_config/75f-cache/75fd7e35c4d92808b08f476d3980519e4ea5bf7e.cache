@@ -1,0 +1,24 @@
+a:45:{s:9:"cardicon1";s:14:"fa-paper-plane";s:9:"cardicon2";s:14:"fa-paper-plane";s:9:"cardicon3";s:14:"fa-paper-plane";s:9:"cardicon4";s:14:"fa-paper-plane";s:14:"cardiconcolor1";s:7:"#000000";s:14:"cardiconcolor2";s:7:"#000000";s:14:"cardiconcolor3";s:7:"#000000";s:14:"cardiconcolor4";s:7:"#000000";s:9:"cardlink1";s:0:"";s:9:"cardlink2";s:0:"";s:9:"cardlink3";s:0:"";s:9:"cardlink4";s:0:"";s:13:"cardsubtitle1";s:96:"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem accusantium! Harum optio, volup.";s:13:"cardsubtitle2";s:96:"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem accusantium! Harum optio, volup.";s:13:"cardsubtitle3";s:96:"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem accusantium! Harum optio, volup.";s:13:"cardsubtitle4";s:96:"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem accusantium! Harum optio, volup.";s:10:"cardtitle1";s:11:"MAGNA ETIAM";s:10:"cardtitle2";s:11:"MAGNA ETIAM";s:10:"cardtitle3";s:11:"MAGNA ETIAM";s:10:"cardtitle4";s:11:"MAGNA ETIAM";s:13:"defaultfooter";s:735:"<div class="row">
+	<div class="col-md-8">
+		<h3 class="-align-center">Trema Soluções em Tecnologia</h3>
+
+	</div>
+	<div class="col-md-4">
+		<h3>Contact Us</h3>
+
+		<ul class="labeled-icons">
+			<li>
+                <span class="fa fa-globe fa-2x"></span>
+                <a href="https://trema.tech/" target="_blank" style="cursor: pointer;">
+                    <p>https://trema.tech/</p>
+                </a>
+            </li>
+			<li>
+                <span class="fa fa-github fa-2x"></span>
+                <a href="https://github.com/trema-tech/" target="_blank" style="cursor: pointer;">
+                    <p>https://github.com/trema-tech/</p>
+                </a>
+            </li>
+		</ul>
+	</div>
+</div>";s:20:"defaultfrontpagebody";s:0:"";s:20:"enableadmindashboard";s:1:"1";s:16:"enablefooterinfo";s:1:"1";s:7:"favicon";s:0:"";s:15:"frontpagebanner";s:0:"";s:20:"frontpagebuttonclass";s:11:"btn-primary";s:19:"frontpagebuttonhref";s:16:"#frontpage-cards";s:19:"frontpagebuttontext";s:10:"Learn more";s:22:"frontpagecardssubtitle";s:101:"Consequat sed ultricies rutrum. Sed adipiscing eu amet utem blandit vis ac commodo aliquet vulputate.";s:19:"frontpagecardstitle";s:22:"MAGNA ETIAM ADIPISCING";s:20:"frontpageenablecards";s:1:"1";s:17:"frontpagesubtitle";s:111:"Ut enim ad minim veniam,<br> quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.";s:14:"frontpagetitle";s:27:"Lorem ipsum, dolor sit amet";s:14:"loginpagestyle";s:16:"particle-circles";s:13:"numberofcards";s:1:"4";s:25:"particles_backgroundcolor";s:7:"#020221";s:22:"particles_circlescolor";s:7:"#FFFFFF";s:12:"primarycolor";s:7:"#047AF5";s:4:"scss";s:0:"";s:7:"scsspre";s:0:"";s:14:"secondarycolor";s:7:"#373A3C";s:13:"showmycourses";s:1:"0";s:11:"summarytype";s:5:"modal";s:7:"version";s:10:"2020062200";}
